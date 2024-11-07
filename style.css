@@ -1,0 +1,25 @@
+.table01, th, td {
+  border: 1px solid black;
+}
+
+.table02 {
+  width: 100%;
+}
+
+.table03, th, td {
+  border: 1px solid black;
+}
+
+.table03 {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table04 {
+  width: 100%;
+  border: 1px solid;
+}
+
+.title04 {
+  border: none;
+}
